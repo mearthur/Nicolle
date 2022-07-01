@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Trispace', sans-serif;
+    font-size: 1rem;
+}
+body{
+    background-image: linear-gradient(to bottom, #F51B12, #BE0700);
+    background-attachment: fixed;
+
+}
+
+.amor{
+    display: block;
+    text-align: center;
+    align-items: center;
+    margin:0 auto;
+    max-width: 65rem;
+    width: 90%;
+}
+
+.imagem{
+    display: block;
+    text-align: center;
+    align-items: center;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+
+}
+.caixa{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin-top: 0.8rem;
+    margin-bottom: 1.6rem;
+
+}
+.caixa fieldset{
+    display: flex;
+    width: 150px;
+    border: none;
+    align-items: center;
+    justify-content: space-between;
+}
