@@ -6,11 +6,13 @@
     font-size: 1rem;
 }
 body{
-    background-image: linear-gradient(to bottom, #F51B12, #BE0700);
+    background-image: linear-gradient(to bottom, #b90600, #800400);
     background-attachment: fixed;
 
 }
-
+section{
+    color: rgb(255, 255, 255);
+}
 .amor{
     display: block;
     text-align: center;
