@@ -18,10 +18,13 @@ section{
     text-align: center;
     align-items: center;
     margin:0 auto;
-    max-width: 65rem;
+    max-width: 50rem;
     width: 90%;
+    text-align: justify;
 }
-
+.aling{
+    text-align: center;
+}
 .imagem{
     display: block;
     text-align: center;
